@@ -14,7 +14,7 @@ def main():
 
     st.sidebar.markdown("<style>div.sidebar-content { position: sticky; top: 0; }</style>", unsafe_allow_html=True)
 
-    st.sidebar.subheader("Contact Information")
+    #st.sidebar.subheader("Contact Information")
     st.sidebar.markdown("Email: shubhamkamble7003@gmail.com\n\nContact No: 7972799088\n\nLocation: Pune, India")
 
     st.sidebar.markdown("### Bio")
